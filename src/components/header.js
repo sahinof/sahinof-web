@@ -84,9 +84,6 @@ const Header = ({ siteTitle }) => (
         <GitHubLink href="https://github.com/sahinof">
           github
         </GitHubLink>
-        <GitHubLink href="https://instagram.com/furkan_sahin">
-          instagram
-        </GitHubLink>
       </p>
     </Content>
   </SiteHeader>
