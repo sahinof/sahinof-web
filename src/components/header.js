@@ -78,11 +78,14 @@ const Header = ({ siteTitle }) => (
       <p>
         <HomeLink to="/">{siteTitle}</HomeLink>
         {/* <NavLink to="/blog">blog</NavLink> */}
-        <GitHubLink href="https://linkedin.com/in/sahinfurkan">
-          linkedin
+        <GitHubLink href="https://sahinof.notion.site/Blog-4b2776a0aa044d98bff3bab089704996">
+          Blog
         </GitHubLink>
         <GitHubLink href="https://github.com/sahinof">
-          github
+          GitHub
+        </GitHubLink>
+        <GitHubLink href="https://linkedin.com/in/sahinfurkan">
+          LinkedIn
         </GitHubLink>
       </p>
     </Content>
