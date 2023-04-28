@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `ömer furkan şahin`,
-    subtitle: `business analyst | product owner`,
-    description: `ömer furkan şahin`,
+    title: `Furkan Şahin`,
+    subtitle: `business analyst`,
+    description: `Furkan Şahin`,
     author: `@niklasmtj`,
   },
   plugins: [
